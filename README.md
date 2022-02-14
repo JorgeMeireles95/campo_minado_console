@@ -1,4 +1,4 @@
-# campo_minad
+# campo_minado_console
 
 ##  Um jogo de campo  minado, sem interface gráfica. 
 
