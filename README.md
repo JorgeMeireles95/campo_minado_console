@@ -12,10 +12,21 @@ Não é necessário nenhuma biblioteca, só fazer o download e importar  para a 
 
 
 
-## Imagem  do console 
+### Imagens do console 
 
 
 
-![Foto do console com o campo minado](https://github.com/JorgeMeireles95/campo_minad/blob/main/joho.PNG)
+<table>
+  <tr>
+    <td> Fim do jogo</td>
+     <td> Outra partida</td>
+     <td>Campo marcado</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/JorgeMeireles95/campo_minad/blob/main/joho.PNG"" width=270 height=200></td>
+    <td><img src="https://github.com/JorgeMeireles95/campo_minad/blob/main/outraPartida.PNG" width=270 height=200></td>
+    <td><img src="https://github.com/JorgeMeireles95/campo_minad/blob/main/campoMarcado.PNG" width=270 height=200></td>
+  </tr>
+ </table>
 
---------------------------------------------------------------------------------------------------------
+
